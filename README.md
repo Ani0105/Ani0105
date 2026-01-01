@@ -9,3 +9,5 @@
 📊 From research labs to family businesses, I replace manual work with data-driven, measurable results.
 
 ✨ I don’t just write code. I build systems that think, adapt, and keep getting better.
+
+📬 Reach me at: aniketgadekar15@gmail.com
